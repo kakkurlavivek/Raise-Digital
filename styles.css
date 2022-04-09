@@ -19,6 +19,9 @@ hr{
   box-shadow: 0 1px 15px 0 grey;
 
 }
+.nav.nav-top{
+  height: 100px;
+}
 .nav-top{
   position: fixed;
   top: 0;
